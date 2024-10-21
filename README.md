@@ -1,12 +1,30 @@
-# Medical Chatbot
+# 🩺 Medical Chatbot 🤖
 
---> The chat bot has been powered by Google Gemini API.
---> The chat bot provides basic information, symptoms and, medicines required for disease prompted by user.
---> User can access their chat history and can deep question about the disease.
+Welcome to the **Medical Chatbot** powered by the **Google Gemini API**! This chatbot is designed to provide users with essential information about diseases, including symptoms and required medications.
 
+## 🌟 Features
 
-# Future Updates
+- **Disease Information**: Get basic details about various diseases.
+- **Symptom Checker**: Understand common symptoms associated with diseases.
+- **Medication Guidance**: Find out what medicines are typically required for specific conditions.
+- **Chat History**: Access your previous chats for reference.
+- **In-depth Queries**: Ask detailed questions about diseases for more personalized responses.
 
---> Will add a scure Authorization and Authentication for each user.
---> The data of each user will be stored while maintaing all CIA triads.
---> Users can upload their medical report and get info about that.
+## 📅 Future Updates
+
+We are continuously improving the chatbot! Here’s what’s coming next:
+
+- **Secure Authentication**: Implementing robust authorization and authentication for each user.
+- **Data Privacy**: Ensuring that all user data is stored while maintaining confidentiality, integrity, and availability (CIA triad).
+- **Upload Medical Reports**: Allow users to upload their medical reports to receive tailored information.
+
+## 🚀 Getting Started
+
+To set up your own instance of the Medical Chatbot, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/tejassinghrajput/medical_chatbot.git
+2. **Navigate into the directory:**
+  ```bash
+  cd medical_chatbot
