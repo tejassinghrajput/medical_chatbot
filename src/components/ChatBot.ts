@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'AIzaSyArP-VzlCQpZGgLASUHXj543AmEneHvFLM';
+const API_KEY = 'YOUR-API-KEY-HERE';
 const API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent';
 
 const PREDEFINED_PROMPT = `You are a medical chatbot. Given a patient's description of their medical problem, suggest appropriate over-the-counter medicine or advise them to consult a doctor if the issue seems serious. Provide a concise response focusing only on the medical advice. Do not include any disclaimers or additional information. The medicine names should be only those which are available in India`;
